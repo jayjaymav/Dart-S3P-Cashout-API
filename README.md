@@ -24,29 +24,26 @@ This project provides a full Dart implementation of the S3P API cashout flow usi
 
 
 ---
-###🚀 Getting Started
+### 🚀 Getting Started
 1. Clone the repository
-bash
-Copy
-Edit
+
 git clone https://github.com/YOUR_USERNAME/s3p-cashout-dart.git
 cd s3p-cashout-dart
+
 2. Install dependencies
-bash
-Copy
-Edit
+
 dart pub get
+
 3. Run the integration
-bash
-Copy
-Edit
+
 dart run bin/cashout_s3p.dart
+
 📦 Dependencies
 
-Package	Purpose
-http	For making HTTP requests
-crypto	For HMAC-SHA1 signing
-convert	For base64 and UTF-8 encoding
+Package	--> Purpose
+http	--> For making HTTP requests
+crypto	--> For HMAC-SHA1 signing
+convert	--> For base64 and UTF-8 encoding
 These are declared in the pubspec.yaml file.
 
 📋 Usage Flow
