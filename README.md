@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 💸 S3P Cashout Dart Integration
 
@@ -72,3 +73,7 @@ PRs and feedback are welcome! If you're using S3P in Dart and want to improve th
 
 🧑‍💻 Author
 Jerry Jonah
+=======
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
+>>>>>>> f66af7b (Updated the payitemId)
